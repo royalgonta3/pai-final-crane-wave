@@ -1,0 +1,8 @@
+video/
+*.mp4
+*.bag
+*.db3
+__pycache__/
+.DS_Store
+説明資料_*.pdf
+report/report.html
